@@ -11,7 +11,7 @@ struct Constants {
     
     struct Url {
         
-        static let moviesURL = "http://www.omdbapi.com/?s=Batman&page=2&apikey=564727fa"
+        static let moviesURL = "http://www.omdbapi.com/?s=Batman&page=2&apikey=YOURKEYHERE"
         
     }
     
